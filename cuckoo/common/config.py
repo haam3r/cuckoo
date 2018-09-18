@@ -620,6 +620,9 @@ class Config(object):
                     allow_empty=True
                 ),
             },
+            "sysmon": {
+                "enabled": <Boolean(True),
+            },
             "targetinfo": {
                 "enabled": Boolean(True),
             },
