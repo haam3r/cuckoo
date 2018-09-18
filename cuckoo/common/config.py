@@ -638,6 +638,7 @@ class Config(object):
                 "scan": Boolean(False),
                 "force": Boolean(False),
                 "url": String(),
+                "probes": String()
             },
         },
         "qemu": {
